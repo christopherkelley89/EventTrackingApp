@@ -37,19 +37,21 @@ git clone https://github.com/christopherkelley89/eventtrackingapp.git
 
 
 ## Screenshots
-![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/d8453954-106f-43d3-9c1a-3fe28c8ca470)
+<p float="left">
+  <img src="https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/d8453954-106f-43d3-9c1a-3fe28c8ca470" width="200" />
+  <img src="https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/4190c8bd-7605-4bc2-8b5a-ab8e6e056362" width="200" />
+  <img src="https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/163b2aeb-6765-436d-a246-22506d71b89f" width="200" />
+</p>
 
-![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/4190c8bd-7605-4bc2-8b5a-ab8e6e056362)
+<p float="left">
+  <img src="https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/fe4a341e-926f-4c61-af93-8b9e74cc58d4" width="200" />
+  <img src="https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/9c374aa8-fd05-44a9-b498-f16cb1d76ad6" width="200" />
+  <img src="https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/e58a1bdb-661f-4c1f-9af3-5885f2f968f4" width="200" />
+</p>
 
-![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/163b2aeb-6765-436d-a246-22506d71b89f)
-
-![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/fe4a341e-926f-4c61-af93-8b9e74cc58d4)
-
-![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/9c374aa8-fd05-44a9-b498-f16cb1d76ad6)
-
-![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/e58a1bdb-661f-4c1f-9af3-5885f2f968f4)
-
-![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/7175cfdb-c90d-4fe9-ac68-0973d208e01b)
+<p float="left">
+  <img src="https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/7175cfdb-c90d-4fe9-ac68-0973d208e01b" width="200" />
+</p>
 
 # 8-3 Journal 
 -**Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?**
@@ -78,5 +80,5 @@ Functional testing by simulating user interactions and verifying the behavior of
 # Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
 
 
-# In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?**
+# In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
