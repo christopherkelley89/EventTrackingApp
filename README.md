@@ -47,4 +47,6 @@ git clone https://github.com/christopherkelley89/eventtrackingapp.git
 
 ![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/9c374aa8-fd05-44a9-b498-f16cb1d76ad6)
 
+![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/e58a1bdb-661f-4c1f-9af3-5885f2f968f4)
+
 ![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/7175cfdb-c90d-4fe9-ac68-0973d208e01b)
