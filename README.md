@@ -31,6 +31,10 @@ git clone https://github.com/christopherkelley89/eventtrackingapp.git
 4. Add new events by using the event creation mechanism.
 5. Remove events that are no longer required.
 6. Receive notifications on the day of scheduled events to stay updated.
+7. SMS Permissions are set once. Currently testing but to test functionality you can uninstall the app in Android emulator and rerun code or try toggling off the settings from the android emulator under settings
+8. Long press Events in the main activity screen will highlight them and then you can choose delete event
+9. Log out will log you out of the app. 
+
 
 ## Screenshots
 ![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/d8453954-106f-43d3-9c1a-3fe28c8ca470)
