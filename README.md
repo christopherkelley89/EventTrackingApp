@@ -58,7 +58,7 @@ git clone https://github.com/christopherkelley89/eventtrackingapp.git
  The user needs I addressed included creating, viewing, and deleting events as well as receiving SMS notifications for events happening today. 
  
  # What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
- The screens and features necessary to support users would be:
+ The screens and features necessary to support users would be:<br>
  **login screen** - Allows users to log in and edit/view/delete events <br>
  **registration screen** - that enabled new users to create an account to start using the app <br> 
  **Main Screen** - MainActivity screen that displays a grid of events and provides options to add and delete events <br> 
@@ -70,7 +70,7 @@ git clone https://github.com/christopherkelley89/eventtrackingapp.git
 Object Oriented programming utilizes various Java classes and objects to structure the code of the application. <br>
 Implement separate classes for database operations, adapters, and activities. <br>
 I also wanted to follow best practices and improve readability and maintainability so anyone could see how everything flows and functions. <br> 
-In the future I could further develop my understanding of following design patters that fit the app architecture, continue trying to modularize the code into smaller but more focused components and conducting some sort of code reviews with my peers. <br>
+In the future I could further develop my understanding of following design patterns that fit the app architecture, continue trying to modularize the code into smaller but more focused components, and conduct some sort of code reviews with my peers. <br>
 
 # How did you test to ensure your code was functional? Why is this process important and what did it reveal?
 Functional testing by simulating user interactions and verifying the behavior of each feature and the behavior expected. For example, I would like to find a different way to test SMS permissions, in the current state of the app it prompts once only, The only workaround I discovered for testing this was by uninstalling the app from the emulator and then proceeding to restart the emulator. My emulated Pixel 6 did not allow me to forget or delete the permissions from the Android settings.
