@@ -33,9 +33,5 @@ git clone https://github.com/christopherkelley89/eventtrackingapp.git
 6. Receive notifications on the day of scheduled events to stay updated.
 
 ## Screenshots
+![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/d8453954-106f-43d3-9c1a-3fe28c8ca470)
 
-(TBD)
-
-## Contributions
-
-(TBD)
