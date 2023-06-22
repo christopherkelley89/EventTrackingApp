@@ -33,5 +33,19 @@ git clone https://github.com/christopherkelley89/eventtrackingapp.git
 6. Receive notifications on the day of scheduled events to stay updated.
 
 ## Screenshots
+Login Screen
 ![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/d8453954-106f-43d3-9c1a-3fe28c8ca470)
 
+SMS Permissions 
+![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/4190c8bd-7605-4bc2-8b5a-ab8e6e056362)
+
+![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/163b2aeb-6765-436d-a246-22506d71b89f)
+
+Main Event Screen Upon Successful Login 
+![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/fe4a341e-926f-4c61-af93-8b9e74cc58d4)
+
+Main event screen II
+![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/9c374aa8-fd05-44a9-b498-f16cb1d76ad6)
+
+Password Reset 
+![image](https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/7175cfdb-c90d-4fe9-ac68-0973d208e01b)
