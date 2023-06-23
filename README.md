@@ -50,7 +50,11 @@ git clone https://github.com/christopherkelley89/eventtrackingapp.git
 </p>
 
 <p float="left">
+  
   <img src="https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/7175cfdb-c90d-4fe9-ac68-0973d208e01b" width="200" />
+  <img src="https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/283748a7-d94b-437d-ab51-2244b59bdc3d" width="200" />
+  <img src="https://github.com/christopherkelley89/EventTrackingApp/assets/60987011/547687c7-1c0a-47f9-814e-51659b9193cf" width="200" />
+
 </p>
 
 # 8-3 Journal 
