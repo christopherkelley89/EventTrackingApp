@@ -58,10 +58,11 @@ git clone https://github.com/christopherkelley89/eventtrackingapp.git
 </p>
 
 # 8-3 Journal 
--**Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?**
- 
+
+# Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
  The goal of this app is related to event tracking and management functionality to the potential users of the app. 
- The user needs I addressed included creating, viewing, and deleting events as well as receiving SMS notifications for events happening today. 
+ The user needs I addressed included creating, viewing, and deleting events as well as receiving SMS notifications for events happening today. <br> 
+ Additionally, there is a way for the user to also reset their password by providing their email address and then confirming the new password.
  
  # What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
  The screens and features necessary to support users would be:<br>
